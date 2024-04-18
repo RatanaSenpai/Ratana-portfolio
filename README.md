@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Ratana-portfolio
 
-## Getting Started
+<img src="https://github.com/RatanaSenpai/Ratana-portfolio/blob/main/screenshot.png?raw=true"/>
 
-First, run the development server:
+## Contexte
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+En tant que développeur junior spécialisé dans JavaScript et React, j'ai entrepris de créer mon propre portfolio pour mettre en pratique mes compétences acquises et approfondir ma maîtrise de technologies modernes telles que Next.js, TailwindCSS et TypeScript. <br>
+Ce projet me permet non seulement de montrer mes réalisations, mais aussi d'apprendre par la pratique, en suivant une méthode agile et innovante.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Objectifs
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+L'objectif principal était de construire un site web portfolio robuste, esthétiquement agréable et fonctionnel, en utilisant des technologies de pointe. Parallèlement, j'ai cherché à optimiser mon processus de développement et à acquérir une compréhension approfondie de chaque outil utilisé.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Méthode Spirale
 
-## Learn More
+J'ai adopté la méthode spirale pour le développement de ce projet. Cette approche itérative m'a permis de constamment évaluer les risques et d'adapter le développement en fonction des feedbacks et de l'évolution de mes compétences.<br>
+Chaque cycle de la spirale comprenait la planification, l'analyse des risques, le développement et l'évaluation, ce qui m'a aidé à mieux gérer les différentes phases du projet et à apporter des améliorations continues.
 
-To learn more about Next.js, take a look at the following resources:
+## Utilisation de Modèles de Composants
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Pour accélérer le développement tout en maintenant une haute qualité de code, j'ai utilisé des modèles de composants pré-conçus que j'ai adaptés à mes besoins. <br>
+Cela m'a permis de me concentrer sur des aspects plus complexes du projet, tout en assurant une cohérence et une optimisation du design et de la fonctionnalité.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Stacks
 
-## Deploy on Vercel
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Conclusion
+Ce projet de portfolio est un jalon important dans mon parcours de développeur. Il reflète mon engagement à apprendre et à grandir dans le domaine du développement web.<br>
+Chaque ligne de code représente un pas en avant vers ma montée en compétence et l'atteinte de mon objectif de devenir développeur senior.
