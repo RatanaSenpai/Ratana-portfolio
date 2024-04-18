@@ -137,7 +137,7 @@ const items = [
           rel="noopener noreferrer"
         >
           <img
-            src="/assets/images/Github.png"
+            src="/assets/images/GitHub.png"
             alt="GitHub"
             className="h-12 w-12 hover:opacity-50 rounded-sm"
           />
