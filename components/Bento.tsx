@@ -51,9 +51,9 @@ const items = [
     title: <div className="text-[#A3A3A3]">Bonjour 👋 !</div>,
     description: (
       <p className="text-[#F5F5F5]">
-        Je suis Ratana, avec 20 ans d'expérience dans l'IT et une passion
-        récente pour le développement web après avoir réussi avec succès une
-        formation de 6 mois auprès d'{" "}
+        Je suis Ratana, avec 20 ans d&apos;expérience dans l&apos;IT et une
+        passion récente pour le développement web après avoir réussi avec succès
+        une formation de 6 mois auprès d&apos;{" "}
         <Code>
           <img
             className="size-4 inline"
@@ -62,8 +62,8 @@ const items = [
           />{" "}
           OpenClassrooms
         </Code>
-        . Aujourd'hui, je me concentre sur le développement front-end, utilisant
-        principalement{" "}
+        . Aujourd&apos;hui, je me concentre sur le développement front-end,
+        utilisant principalement{" "}
         <Code>
           <img
             className="size-4 inline"
@@ -80,9 +80,9 @@ const items = [
           />{" "}
           JS
         </Code>
-        . Mon parcours diversifié dans l'IT enrichit ma compréhension des enjeux
-        technologiques, me permettant d'aborder chaque projet web avec
-        innovation et perspective.
+        . Mon parcours diversifié dans l&apos;IT enrichit ma compréhension des
+        enjeux technologiques, me permettant d&apos;aborder chaque projet web
+        avec innovation et perspective.
       </p>
     ),
     header: <Skeleton />,
