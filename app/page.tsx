@@ -51,6 +51,22 @@ export default function Home() {
       linkHref: "https://showseeker-three.vercel.app/",
       stack: "React, Axios",
     },
+    {
+      title: "EconoMise",
+      description:
+        "Projet EconoMise : Découvrez mon projet de Expense Tracker, une application dynamique conçue avec NextJS et stylisée par TailwindCSS, visant à maîtriser ces technologies tout en explorant l'intégration de services externes pour l'authentification et la gestion de données.",
+      imgSrc: "/assets/images/EconoMise.png",
+      linkHref: "https://econo-mise.vercel.app/",
+      stack: "NextJS, TailwindCSS",
+    },
+    {
+      title: "Kanban Board",
+      description:
+        "Projet Kanban Board : Il s'agit d'un projet basique de tableau Kanban développé comme exercice d'apprentissage pour mieux comprendre TypeScript avec React. Le projet utilise ViteJS comme outil de build et TailwindCSS pour le style.",
+      imgSrc: "/assets/images/kanban.png",
+      linkHref: "https://kanban-board-six-smoky.vercel.app/",
+      stack: "React, Typescript",
+    },
   ];
 
   return (
